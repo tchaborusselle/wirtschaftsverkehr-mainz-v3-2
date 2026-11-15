@@ -1,0 +1,7 @@
+Neu 15.11.2026 WV – korrigierte Version 3.3
+
+Enthält Fahrzeugformular mit Bewegung (Einfahrt/Ausfahrt), Art des Wirtschaftsverkehrs und Bemerkung.
+Schnellzählung Fuß/Rad/E-Scooter bleibt ein Klick.
+
+GitHub Pages: index.html, manifest.webmanifest und sw.js im Hauptverzeichnis hochladen.
+Hinweis: Bereits bestehende Offline-Caches ggf. neu laden; vor Erhebung testen.
